@@ -32,3 +32,15 @@ ol {
   color: inherit;
   line-height: 40px;
 }
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: green;
+  font-weight: bold;
+  letter-spacing: 10px;
+  text-decoration: underline;
+}
