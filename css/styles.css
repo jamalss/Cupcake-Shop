@@ -8,19 +8,27 @@ body {
 h1 {
   color: orange;
   font-weight: bolder;
+  text-align: center;
 }
 
 h2 {
   color: brown;
   font-weight: bold;
+  text-align: center;
 }
 
 h3 {
-  color: lightgrey;
+  color: grey;
   font-weight: normal;
 }
 
 ul {
   color: purple;
   font-style: italic;
+  line-height: 40px;
+}
+
+ol {
+  color: inherit;
+  line-height: 40px;
 }
