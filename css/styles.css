@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(to bottom, rgba(233, 34, 78, 0.6), white 50%, rgba(233, 34, 78, 0.6) );
+  font-family: cursive;
+  font-size: 30px;
+  line-height: 30px
+}
+
+h1 {
+  color: orange;
+  font-weight: bolder;
+}
+
+h2 {
+  color: brown;
+  font-weight: bold;
+}
+
+h3 {
+  color: lightgrey;
+  font-weight: normal;
+}
+
+ul {
+  color: purple;
+  font-style: italic;
+}
